@@ -12,8 +12,6 @@
 
 - ANIOS_GAIA前端代码采用模块化开发，使用Requierjs驱动，符合（AMD）标准。
 
-- ANIOS_GAIA采用karma来编写测试单元。
-
 - 前端UI使用了bootstrap响应式开发。自适应浏览器及移动设备。
 
 - ANIOS_GAIA采用Karma进行运行测试、angular_scenario进行端到端测试、jasmine进行单元测试。
